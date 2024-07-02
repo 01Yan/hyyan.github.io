@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+Bio
+======
 Welcome to my research page. I am a dedicated researcher with a deep enthusiasm for applied machine learning and its extensive applications in computational chemistry, computer networks, and medical imaging. I received my dual bachelor's degrees in Communication Engineering from Xidian University and Heriot-Watt University in 2024. **I welcome all relevant interdisciplinary research collaboration opportunities.**
 
 
