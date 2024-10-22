@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I recently graduated with dual Bachelor's degree from Xidian University and Heriot-Watt University and am currently on a gap year. My research interests lie at the intersection of AI and scientific applications, focusing on Graph Neural Networks, algorithmic optimization. I am now exploring new research directions, potentially within AI or related fields, before pursuing graduate studies. Feel free to reach out to me for collaboration or discussion.
+I recently graduated with dual Bachelor's degree from Xidian University and Heriot-Watt University and am currently on a gap year. My research interests lie at the intersection of AI and scientific applications, focusing on Graph Neural Networks, algorithmic optimization, force fields, and network optimization. I am now exploring new research directions, potentially within AI or related fields, before pursuing graduate studies. Feel free to reach out to me for collaboration or discussion.
 
-A data-driven personal website
+Education and Research Experience
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- **Seq 2020 - Jun 2024** Received my B.Eng. degree from Xidian University and Heriot-Watt University, adivised by Marta Vallejo.
+- **Jan 2022 - Mar 2023** Research intern at Advanced Network Technology Laboratory, Xidian University, adivised by Wenting Wei.
+- **Jul 2023 - Oct 2024** Research intern in a colloborative project, involving Wake Forest University, University of Texas at Austin, and University of North Georgia, adivised by Minghan Chen, Yong Wei, and Hanning Chen
 
 Getting started
 ======
