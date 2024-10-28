@@ -12,7 +12,7 @@ title                    : "Yan's Homepage"
 title_separator          : "-"
 name                     : &name "Hongyu Yan"
 description              : &description "personal description"
-url                      : https://hyyan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://acadenicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "01Yan/hyyan.github.io"
 
