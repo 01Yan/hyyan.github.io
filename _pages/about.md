@@ -9,7 +9,7 @@ redirect_from:
 
 I recently graduated with dual Bachelor's degree from Xidian University and Heriot-Watt University and am currently on a gap year. My research interests lie at the intersection of AI and scientific applications, focusing on Graph Neural Networks, algorithmic optimization, force fields, and network optimization. I am now exploring new research directions, potentially within AI or related fields, before pursuing graduate studies. Feel free to reach out to me for collaboration or discussion.
 
-You can find my CV here: [Hongyu Yan's Curriculum Vitae](files/CV-Hongyu Yan.pdf).
+You can find my CV here: [Hongyu Yan's Curriculum Vitae](../files/CV-Hongyu%20Yan.pdf).
 
 Education and Research Experience
 ======
