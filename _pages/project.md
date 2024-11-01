@@ -13,4 +13,4 @@ author_profile: true
 ![image](https://github.com/01Yan/hyyan.github.io/raw/master/images/model_structure.jpg)
 ![image](https://github.com/01Yan/hyyan.github.io/raw/master/images/Figure_MAE_DEEPMD_GNNFF_PDMD.jpg)
 ![image](https://github.com/01Yan/hyyan.github.io/raw/master/images/Figure_Eenergy_Force_Scatter_Plot.jpg)
-<img src="https://github.com/01Yan/hyyan.github.io/raw/master/images/Figure_WATER_1_STRUCTURE.png" alt="image" width="400" style="display: block; margin: auto;">
+<img src="https://github.com/01Yan/hyyan.github.io/raw/master/images/Figure_WATER_1_STRUCTURE.png" alt="image" width="500" style="display: block; margin: auto;">
