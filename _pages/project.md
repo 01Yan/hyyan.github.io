@@ -10,4 +10,4 @@ author_profile: true
 - By an iterative self-consistent approach, a converged PDMD is obtained, which outperforms the state-of-the-art DeepMD by 83% in terms of energy MAE and 201% for force prediction.
 - PDMD achieves outstanding performance on the (H<sub>2</sub>O)<sub>n ≤ 21</sub> dataset, which has both gas and gas-liquid phase transition features, providing a diverse set of chemical environments. This highlights its cross-phase predictive power, delivering ultra-fast, general-purpose MD simulations while retaining ab initio accuracy.
 
-![image](https://github.com/01Yan/hyyan.github.io/images/model_structure.jpg)
+![image](https://github.com/01Yan/hyyan.github.io/tree/master/images/model_structure.jpg)
