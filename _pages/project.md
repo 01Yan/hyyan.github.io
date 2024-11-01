@@ -11,3 +11,5 @@ author_profile: true
 - PDMD achieves outstanding performance on the (H<sub>2</sub>O)<sub>n ≤ 21</sub> dataset, which has both gas and gas-liquid phase transition features, providing a diverse set of chemical environments. This highlights its cross-phase predictive power, delivering ultra-fast, general-purpose MD simulations while retaining ab initio accuracy.
 
 ![image](https://github.com/01Yan/hyyan.github.io/blob/master/images/model_structure.jpg)
+![image](https://github.com/01Yan/hyyan.github.io/blob/master/images/Figure_MAE_DEEPMD_GNNFF_PDMD.jpg)
+![image](https://github.com/01Yan/hyyan.github.io/blob/master/images/Figure_Eenergy_Force_Scatter_Plot.jpg)
