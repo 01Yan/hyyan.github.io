@@ -19,5 +19,5 @@ Education and Research Experience
 
 Research interests
 ======
-- AI for Science
+- AI for Sciences
 - Data-driven traffic engineering
