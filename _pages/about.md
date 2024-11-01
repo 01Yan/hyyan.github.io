@@ -19,6 +19,5 @@ Education and Research Experience
 
 Research interests
 ======
-- Machine Learning in Force Fields
-- Few-shot learning for medical image classification
+- AI for Science
 - Data-driven traffic engineering
