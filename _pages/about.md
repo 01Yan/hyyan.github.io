@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently graduated with dual Bachelor's degree from Xidian University and Heriot-Watt University and am currently on a gap year. My research interests center on exploring the applications of machine learning in practical scenarios, focusing on Graph Neural Networks, algorithmic optimization, large language models, and materials discovery. I am currently exploring new research directions, potentially within AI or related fields, before pursuing graduate studies. Feel free to reach out to me for collaboration or discussion.
+I recently graduated with dual Bachelor's degree from Xidian University and Heriot-Watt University and am currently on a gap year. My research interests center on exploring the applications of machine learning in practical scenarios, focusing on graph neural networks, large language models, materials discovery, and health. I am currently exploring new research directions, potentially within AI or related fields, before pursuing graduate studies. Feel free to reach out to me for collaboration or discussion.
 
 You can find my CV here: [Hongyu Yan's CV](https://github.com/01Yan/hyyan.github.io/raw/master/files/Resume-YAN%20Hongyu.pdf).
 
@@ -21,4 +21,4 @@ Research interests
 ======
 - AI for Science
 - Machine Learning
-- Data-driven Traffic Engineering
+- Human-centered Computing
