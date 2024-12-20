@@ -13,3 +13,9 @@ author_profile: true
 <span style="color:green; font-style:italic;">Nature Communications</span> <span style="color:green;">(Under review)</span>  
 | [paper](https://arxiv.org/abs/2412.04442)
 | [code](https://github.com/TACC/PDMD/tree/main?tab=readme-ov-file) |
+
+**Incremental Deployment Method of Segment Routing Based on Graph Neural Networks and Reinforcement Learning**
+Yuqing Xia, Wenting Wei, **Hongyu Yan**, Jiahao Zhu, Chengding Pang
+<span style="color:green; font-style:italic;">Chinese Patent</span> <span style="color:green;">(Accepted)</span>  
+| [patent](https://arxiv.org/abs/2412.04442)
+| [code](https://github.com/TACC/PDMD/tree/main?tab=readme-ov-file) |
