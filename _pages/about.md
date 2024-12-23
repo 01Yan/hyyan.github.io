@@ -14,7 +14,7 @@ You can find my CV here: [Hongyu Yan's CV](https://github.com/01Yan/hyyan.github
 Education and Research Experience
 ======
 - **Seq 2020 - Jun 2024** Received my B.Eng. degree from Xidian University and Heriot-Watt University.
-- **Jan 2022 - Mar 2023** Research intern at Advanced Network Technology Laboratory, Xidian University, adivised by Wenting Wei.
+- **Jan 2022 - Mar 2023** Research intern at Advanced Network Technology Laboratory, Xidian University, adivised by [Wenting Wei](https://faculty.xidian.edu.cn/WEIWENTING/zh_CN/index.htm).
 - **Jul 2023 - Oct 2024** Research intern in a colloborative project, involving Wake Forest University, University of Texas at Austin, and University of North Georgia, adivised by [Minghan Chen](https://chenm.sites.wfu.edu/), [Hanning Chen](https://tacc.utexas.edu/about/staff-directory/hanning-chen/), and [Yong Wei](https://yweihpu.github.io/WeiLab/).
 
 Research interests
